@@ -1,0 +1,1 @@
+# to-check-whether-thge-given-number-is-primenumber-or-not
